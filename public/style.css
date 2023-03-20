@@ -1,0 +1,8 @@
+* {
+    box-sizing: border-box;
+    height: auto;
+}
+
+body {
+    background-color: aqua;
+}
